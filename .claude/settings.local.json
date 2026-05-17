@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"d:\\\\Vue2Vue3学习\\\\景区项目\\\\test\" /b)",
+      "Bash(pnpm create *)"
+    ]
+  }
+}
